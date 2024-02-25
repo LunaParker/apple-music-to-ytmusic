@@ -1,0 +1,6 @@
+.env
+.venv/
+.idea/
+**.json
+**__py**__/
+**.DS_Store
